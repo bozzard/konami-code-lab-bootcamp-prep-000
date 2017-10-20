@@ -35,4 +35,4 @@ input[0].addEventListener('keydown', function doReturn (event) {
 //  alert('I was clicked!')
 })
 }
-//c all init() to attach the event listener and set everything up!
+//  call init() to attach the event listener and set everything up!
